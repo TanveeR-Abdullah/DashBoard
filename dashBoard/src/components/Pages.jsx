@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Dashboard from './DashBoard'
+import Dashboard from './Dashboard'
 import Sidebar from './Sidebar'
 
 const Pages = () => {
