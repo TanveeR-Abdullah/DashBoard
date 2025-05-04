@@ -1,0 +1,3 @@
+.dashBoard{
+    @apply bg-white rounded-lg pb-8 shadow h-[200vh]
+}
