@@ -1,5 +1,6 @@
 import React from 'react'
 import AccountToggle  from './AccountToggle'
+import Search from './Search'
 
  const  Sidebar = () => {
   return (
@@ -8,6 +9,7 @@ import AccountToggle  from './AccountToggle'
          h-[calc(100vh-32px-48px)] ' >
             {/* main sidebar content */}
           <AccountToggle/>  
+          <Search/>
 
         </div>
         {/* plan toggle */}

@@ -1,6 +1,6 @@
 
 import Pages from './components/pages'
-import './dashboard.css'
+import './components/Dashboard/dashboard.css'
 import './sidebar.css'
 
 
